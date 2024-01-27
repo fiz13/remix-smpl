@@ -1,2 +1,2 @@
-# remix-smpla
+# remix-smpl
 
